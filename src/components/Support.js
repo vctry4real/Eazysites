@@ -15,7 +15,7 @@ const Support = () => {
           <div  className='px-4 py-12 '>
             <h2 className='text-3xl pt-8 text-slate-300 uppercase text-center'>Support</h2>
             <h3 className='text-5xl font-bold py-6 text-center'>Finding the right team</h3>
-            <p className='py-4 text-3xl text-slate-300'>lorem alkdkjkldk lkakdkdjk kakdkla;djkd dlkakjfkak k kajdkjkajkjvnvlkl lakkjlkalkfkl;alkdlkdkaklslkdkndkjdklak kajdkljka kljkadj kja alak kaj kal  klalkdldl</p>
+            <p className='py-4 text-3xl text-slate-300 text-center'>lorem alkdkjkldkdjfs ldkslksldl lkdsdklskhlsffslsks lkakdkdjk kakdkla;djkd dlkakjfkak k kajdkjkajkjvnvlkl lakkjlkalkfkl </p>
           </div> 
 
           <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
