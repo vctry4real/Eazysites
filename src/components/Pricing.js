@@ -10,7 +10,7 @@ const pricing = () => {
         <div className='text-center py-8 text-slate-300'>
           <h2 className='text-3xl uppercase '>Pricing </h2>
           <h3 className='text-5xl font-bold py-8 text-white'>The Right Price For Your Website</h3>
-          <p className='text-3xl'>lkakdlkjlk lkalkdlk lka;lkjkdk klakdhdl l;alkjdkldk ;lakjd;ldkdl lkalkdlk kalkdkdj l;a lka;kdjdjdl;kldkjdl; kakdjkljak lalkdkljdk lkakjdkj kjdj klalkjdka </p>
+          <p className='text-3xl'>Explore our pricing tiers below and choose the one that aligns perfectly with your goals. </p>
         </div>
 
         <div className='grid md:grid-cols-2'>
